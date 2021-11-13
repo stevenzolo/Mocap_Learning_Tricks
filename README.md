@@ -8,10 +8,10 @@
 
 ## **环境配置**
 
- - Windows和Ubuntu双系统安装
- - 创建Python虚拟环境
- - TensorFlow-gpu安装思路、
- - DeepMimic实现过程记录
+ - [Windows和Ubuntu双系统安装](https://github.com/stevenzolo/Mocap_Learning_Tricks/blob/main/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/%E5%9C%A8Windows%E4%B8%8A%E5%AE%89%E8%A3%85Ubuntu%E5%8F%8C%E7%B3%BB%E7%BB%9F.md)
+ - [创建Python虚拟环境](https://github.com/stevenzolo/Mocap_Learning_Tricks/blob/main/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/Python%E5%88%9B%E5%BB%BA%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83.md)
+ - [TensorFlow-gpu安装思路](https://github.com/stevenzolo/Mocap_Learning_Tricks/blob/main/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/tensroflow-gpu%E5%AE%89%E8%A3%85%E6%80%9D%E8%B7%AF.md)
+ - [DeepMimic实现过程记录](https://github.com/stevenzolo/Mocap_Learning_Tricks/blob/main/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/DeepMimicImplement.docx)
 
 ## 搭建机器学习代码
 
@@ -33,9 +33,9 @@
 TO do later!
 ## 动作捕捉的笔记
 
- - 四元数计算笔记
- - 相邻肢体运动链的运动学计算
- - 早期的动捕介绍PPT和人体动捕算法综述
+ - [四元数计算笔记](https://github.com/stevenzolo/Mocap_Learning_Tricks/blob/main/%E5%8A%A8%E6%8D%95%E7%AC%94%E8%AE%B0/Quaternion_calculation_notes.pdf)
+ - [相邻肢体运动链的运动学计算](https://github.com/stevenzolo/Mocap_Learning_Tricks/blob/main/%E5%8A%A8%E6%8D%95%E7%AC%94%E8%AE%B0/Two-segment_chain_kinematics_tutorial.pdf)
+ - 早期的[动捕介绍PPT](https://github.com/stevenzolo/Mocap_Learning_Tricks/blob/main/%E5%8A%A8%E6%8D%95%E7%AC%94%E8%AE%B0/Mocap_Intro.pptx)和[人体动捕算法综述](https://github.com/stevenzolo/Mocap_Learning_Tricks/blob/main/%E5%8A%A8%E6%8D%95%E7%AC%94%E8%AE%B0/%E4%BA%BA%E4%BD%93%E5%8A%A8%E6%8D%95%E7%AE%97%E6%B3%95%E7%BB%BC%E8%BF%B0.docx)
  - 一些可能用到的网站：
 	 - 荷兰惯性动捕企业[Xsens的技术研究](https://www.xsens.com/research?document=All%20documents)
 	 - [国际生物力学学会](https://isbweb.org/)提供了人体骨骼、肌肉等结构的名称和一般运动机理
