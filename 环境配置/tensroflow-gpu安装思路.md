@@ -1,5 +1,7 @@
 # tensroflow-gpu安装思路
 
+作者：郑昭龙
+
 
 ##安装流程
 安装tensorflow-gpu时需要考虑各个依赖是否兼容，此处以TensorFlow1.5.0为例。
