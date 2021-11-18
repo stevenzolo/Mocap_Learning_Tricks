@@ -30,7 +30,8 @@
  - 中文社区（微信公众号同名），[深度强化学习实验室](http://deeprl.neurondance.com/)
 
 ### 深度学习
-TO do later!
+ - [李宏毅深度学习视频]（https://www.bilibili.com/video/BV1Wv411h7kN?p=11)
+ - [课件和资料]（https://github.com/Fafa-DL/Lhy_Machine_Learning)
 ## 动作捕捉的笔记
 
  - [四元数计算笔记](https://github.com/stevenzolo/Mocap_Learning_Tricks/blob/main/%E5%8A%A8%E6%8D%95%E7%AC%94%E8%AE%B0/Quaternion_calculation_notes.pdf)
